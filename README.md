@@ -4,6 +4,6 @@
 
 This repository contains an [MEI](https://music-encoding.org) encoding of [Phantasie (Opus 77) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Plate B.187.](https://imslp.org/wiki/Special:ReverseLookup/58125) 
 
-# Note: The MEI header still needs to be FRBRized. #
+**Note: The MEI header still needs to be FRBRized.**
 
 We hope that this repository will eventually serve as an encoding template for wider use within the [TROMPA](https://trompamusic.eu) project. For now, no assurances are made regarding the validity or consistency of this encoding or its structure. 
