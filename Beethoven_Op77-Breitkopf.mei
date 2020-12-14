@@ -13011,7 +13011,7 @@
                                             <note xml:id="note-0000000425286122" dur="16" oct="2" pname="e" stem.dir="up">
                                                 <artic xml:id="artic-0000000958275238" artic="stacc"/>
                                             </note>
-                                            <note xml:id="note-0000002062684131" dur="16" oct="3" pname="b" stem.dir="up"/>
+                                            <note xml:id="note-0000002062684131" dur="16" oct="3" pname="b" stem.dir="down"/>
                                         </beam>
                                         <space xml:id="space-0000000493382143" dur="4"/>
                                     </layer>
@@ -14180,7 +14180,7 @@
                                             <note xml:id="note-0000002023858225" dur="8" oct="3" pname="b" stem.dir="down">
                                                 <artic xml:id="artic-0000000991702742" artic="stacc"/>
                                             </note>
-                                            <note xml:id="note-0000000927400427" dur="8" oct="1" pname="b" stem.dir="down">
+                                            <note xml:id="note-0000000927400427" dur="8" oct="1" pname="b" stem.dir="up">
                                                 <artic xml:id="artic-0000000382666663" artic="stacc"/>
                                             </note>
                                         </beam>
