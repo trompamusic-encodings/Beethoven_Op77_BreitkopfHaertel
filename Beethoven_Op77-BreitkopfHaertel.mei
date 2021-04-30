@@ -4357,7 +4357,6 @@
                             <pb xml:id="pb-0000000272999260"/>
                         </section>
                         <section xml:id="D-Adagio-Presto">
-                            <pb xml:id="pb-0000000288971577"/>
                             <scoreDef xml:id="scoredef-0000000655961942" key.mode="major" key.sig="4f" meter.count="2" meter.unit="4"/>
                             <measure xml:id="measure-0000000335212709" n="79">
                                 <staff xml:id="staff-0000000890033571" n="1">
